@@ -1,0 +1,2 @@
+In Python, you can learn about variables, list and dictionaries.
+It contains versatile style of code and indentation to seperate a lines of code. Writing and reading a file is the concept thta we are learning currently.
